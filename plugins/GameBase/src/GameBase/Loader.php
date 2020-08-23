@@ -25,7 +25,7 @@ class Loader extends PluginBase
      */
     private static
         $_server,
-        $playerClass;
+        $playerClass = '';
 
     /**
      * Enables plugin
@@ -34,6 +34,7 @@ class Loader extends PluginBase
     {
         $this->getServer()->getPluginManager()->registerEvents(new EventListener, $this);
         static::$_server = new Server($this);
+        $this->setPlayerClass(Player::class);
     }
 
     /**
@@ -52,24 +53,16 @@ class Loader extends PluginBase
     }
 
     /**
-     * @return PluginManager
-     */
-    public static function getManager() : PluginManager
-    {
-        return static::getInstance()->getServer()->getPluginManager();
-    }
-
-    /**
      * @param string $class
      * @throws Exception
      */
     public function setPlayerClass(string $class) : void
     {
-        if(!is_subclass_of(Player::class, $class))
+        if($class != Player::class && !is_subclass_of($class, Player::class))
         {
             throw new Exception($class.' must be subclass of '.Player::class);
         }
-        static::getManager()->callEvent($ev = new SetPlayerClassEvent($class));
+        $this->getServer()->getPluginManager()->callEvent($ev = new SetPlayerClassEvent($class));
         static::$playerClass = $ev->getClass();
     }
 

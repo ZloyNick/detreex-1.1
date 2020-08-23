@@ -195,3 +195,302 @@
 2020-08-24 [00:02:07] [Server thread/INFO]: Мир "world": 362 чанков, 1 сущностей, 0 тайлов. Время 0.56мс
 2020-08-24 [00:02:07] [Server thread/INFO]: Мир "nether": 0 чанков, 0 сущностей, 0 тайлов. Время 0мс
 2020-08-24 [00:02:07] [Server thread/INFO]: Мир "ender": 0 чанков, 0 сущностей, 0 тайлов. Время 0мс
+2020-08-24 [01:05:16] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:05:16] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:05:16] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:05:16] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:05:16] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:05:16] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:05:16] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:05:16] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:05:16] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:05:16] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:05:16] [Server thread/CRITICAL]: ParseError: "syntax error, unexpected '('" (EXCEPTION) in "/plugins/GameBase/src/GameBase/event/EventListener" at line 26
+2020-08-24 [01:05:16] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:05:16] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:05:16] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:05:16] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:05:17] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:05:17] [Server thread/INFO]: Загружено (0.95 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:05:24] [Server thread/INFO]: Steve[/192.168.213.1:51465] вошел с id сущности 8491373099505087518 на (1, world, 128, 65)
+2020-08-24 [01:05:26] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:05:26] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:06:16] [Server thread/INFO]: [CONSOLE: Остановка сервера]
+2020-08-24 [01:06:16] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-24 [01:06:16] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-24 [01:06:16] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-24 [01:06:21] [Server thread/INFO]: Остановка других потоков
+2020-08-24 [01:06:22] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:06:23] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:06:23] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:06:23] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:06:23] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:06:23] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:06:23] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:06:23] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:06:23] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:06:23] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:06:23] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:06:23] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:06:23] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:06:23] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:06:23] [Server thread/INFO]: Загружено (0.964 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:06:44] [Server thread/CRITICAL]: "Невозможно обработать событие 'pocketmine\event\player\PlayerPreLoginEvent' в 'GameBase v1.0.0': Return value of GameBase\Loader::getPlayerClass() must be of the type string, null returned в GameBase\event\EventListener"
+2020-08-24 [01:06:44] [Server thread/CRITICAL]: TypeError: "Return value of GameBase\Loader::getPlayerClass() must be of the type string, null returned" (EXCEPTION) in "/plugins/GameBase/src/GameBase/Loader" at line 81
+2020-08-24 [01:06:46] [Server thread/INFO]: Steve[/192.168.213.1:51465] вошел с id сущности 8491373099505087518 на (1, world, 128, 65)
+2020-08-24 [01:06:47] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:06:47] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:07:47] [Server thread/INFO]: [CONSOLE: Остановка сервера]
+2020-08-24 [01:07:47] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:07:47] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-24 [01:07:47] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-24 [01:07:48] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-24 [01:07:53] [Server thread/INFO]: Остановка других потоков
+2020-08-24 [01:08:01] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:08:01] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:08:02] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:08:02] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:08:02] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:08:02] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:08:02] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:08:02] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:08:02] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:08:02] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:08:02] [Server thread/CRITICAL]: Exception: "GameBase\player\Player must be subclass of GameBase\player\Player" (EXCEPTION) in "/plugins/GameBase/src/GameBase/Loader" at line 71
+2020-08-24 [01:08:02] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:08:02] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:08:02] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:08:02] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:08:02] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:08:02] [Server thread/INFO]: Загружено (1.044 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:08:08] [Server thread/INFO]: Steve[/192.168.213.1:51465] вошел с id сущности 8491373099505087518 на (1, world, 128, 65)
+2020-08-24 [01:08:10] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:08:10] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:09:25] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:09:25] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:09:25] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:09:25] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:09:25] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:09:25] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:09:25] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:09:25] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:09:25] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:09:25] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:09:25] [Server thread/CRITICAL]: Exception: "GameBase\player\Player must be subclass of GameBase\player\Player" (EXCEPTION) in "/plugins/GameBase/src/GameBase/Loader" at line 71
+2020-08-24 [01:09:25] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:09:25] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:09:25] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:09:25] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:09:26] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:09:26] [Server thread/INFO]: Загружено (0.874 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:11:33] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:11:33] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:11:33] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:11:33] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:11:33] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:11:33] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:11:33] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:11:33] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:11:33] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:11:33] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:11:33] [Server thread/CRITICAL]: Exception: "GameBase\player\Player must be subclass of GameBase\player\Player" (EXCEPTION) in "/plugins/GameBase/src/GameBase/Loader" at line 71
+2020-08-24 [01:11:33] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:11:33] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:11:33] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:11:33] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:11:33] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:11:33] [Server thread/INFO]: Загружено (0.954 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:12:17] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:12:17] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:12:17] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:12:18] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:12:18] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:12:18] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:12:18] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:12:18] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:12:18] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:12:18] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:12:18] [Server thread/CRITICAL]: TypeError: "get_class() expects parameter 1 to be object, string given" (EXCEPTION) in "/plugins/GameBase/src/GameBase/Loader" at line 69
+2020-08-24 [01:12:18] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:12:18] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:12:18] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:12:18] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:12:18] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:12:18] [Server thread/INFO]: Загружено (0.891 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:15:08] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:15:08] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:15:08] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:15:08] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:15:08] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:15:08] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:15:08] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:15:08] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:15:09] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:15:09] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:15:09] [Server thread/CRITICAL]: Error: "Call to a member function getPluginManager() on null" (EXCEPTION) in "/plugins/GameBase/src/GameBase/Loader" at line 60
+2020-08-24 [01:15:09] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:15:09] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:15:09] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:15:09] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:15:09] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:15:09] [Server thread/INFO]: Загружено (0.929 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:16:17] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:16:17] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:16:18] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:16:18] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:16:18] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:16:18] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:16:18] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:16:18] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:16:18] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:16:18] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:16:18] [Server thread/CRITICAL]: TypeError: "Return value of GameBase\Loader::getPlayerClass() must be of the type string, null returned" (EXCEPTION) in "/plugins/GameBase/src/GameBase/Loader" at line 74
+2020-08-24 [01:16:18] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:16:18] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:16:18] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:16:18] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:16:18] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:16:18] [Server thread/INFO]: Загружено (0.979 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:18:01] [Server thread/INFO]: Неизвестная команда. Используйте /help для списка команд
+2020-08-24 [01:18:03] [Server thread/INFO]: [CONSOLE: Остановка сервера]
+2020-08-24 [01:18:03] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-24 [01:18:03] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-24 [01:18:03] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-24 [01:18:08] [Server thread/INFO]: Остановка других потоков
+2020-08-24 [01:18:16] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:18:16] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:18:17] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:18:17] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:18:17] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:18:17] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:18:17] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:18:17] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:18:17] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:18:17] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:18:17] [Server thread/CRITICAL]: Error: "Access to undeclared static property: GameBase\event\player\SetPlayerClassEvent::$handlerList" (EXCEPTION) in "/src/pocketmine/event/Event" at line 82
+2020-08-24 [01:18:17] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:18:17] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:18:17] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:18:17] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:18:17] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:18:17] [Server thread/INFO]: Загружено (0.912 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:18:24] [Server thread/INFO]: Steve[/192.168.213.1:61024] вошел с id сущности 8491373099505087518 на (1, world, 128, 65)
+2020-08-24 [01:18:26] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:18:26] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:19:21] [Server thread/INFO]: [CONSOLE: Остановка сервера]
+2020-08-24 [01:19:21] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-24 [01:19:21] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-24 [01:19:21] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-24 [01:19:35] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:19:35] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:19:35] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:19:36] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:19:36] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:19:36] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:19:36] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:19:36] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:19:36] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:19:36] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:19:36] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:19:36] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:19:36] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:19:36] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:19:36] [Server thread/INFO]: Загружено (0.892 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:19:42] [Server thread/INFO]: Steve[/192.168.213.1:61024] вошел с id сущности 8491373099505087518 на (1, world, 128, 65)
+2020-08-24 [01:19:44] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:19:44] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:23:18] [Server thread/INFO]: Укажите причину!
+2020-08-24 [01:23:22] [Server thread/INFO]: Игрок Steve был кикнут игроком CONSOLE
+2020-08-24 [01:23:22] [Server thread/INFO]: Причина: asdasd
+2020-08-24 [01:23:25] [Server thread/INFO]: Steve[/192.168.213.1:61024] отключился: Тебя кикнул с сервера CONSOLE
+Причина: asdasd
+2020-08-24 [01:23:27] [Server thread/INFO]: [CONSOLE: Остановка сервера]
+2020-08-24 [01:23:27] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:23:27] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-24 [01:23:27] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-24 [01:23:27] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-24 [01:23:32] [Server thread/INFO]: Остановка других потоков
+2020-08-24 [01:23:42] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:23:42] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:23:43] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:23:49] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:23:49] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:23:49] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:23:49] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:23:50] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:23:50] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:23:50] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:23:50] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:23:50] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:23:50] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:23:50] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:23:50] [Server thread/INFO]: Загружено (8.243 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:23:58] [Server thread/INFO]: Steve[/192.168.213.1:61024] вошел с id сущности 8491373099505087518 на (1, world, 128, 70)
+2020-08-24 [01:24:00] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:24:00] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:24:24] [Server thread/INFO]: Steve вышел из игры
+2020-08-24 [01:24:24] [Server thread/INFO]: Steve[/192.168.213.1:61024] отключился: client disconnect
+2020-08-24 [01:25:00] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:25:00] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:25:00] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:25:01] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:25:01] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:25:01] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:25:01] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:25:01] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:25:01] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:25:01] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:25:01] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:25:01] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:25:01] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:25:01] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:25:01] [Server thread/INFO]: Загружено (1.118 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:25:03] [Server thread/INFO]: Steve[/192.168.213.1:61024] вошел с id сущности 8491373099505087518 на (1, world, 128, 70)
+2020-08-24 [01:25:05] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:25:05] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:25:22] [Server thread/INFO]: Steve вышел из игры
+2020-08-24 [01:25:22] [Server thread/INFO]: Steve[/192.168.213.1:61024] отключился: client disconnect
+2020-08-24 [01:25:24] [Server thread/INFO]: [CONSOLE: Остановка сервера]
+2020-08-24 [01:25:25] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [01:25:25] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-24 [01:25:25] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-24 [01:25:25] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-24 [01:25:30] [Server thread/INFO]: Остановка других потоков
+2020-08-24 [01:26:19] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:26:19] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:26:19] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:26:20] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:26:20] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:26:20] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:26:20] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:26:20] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:26:20] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:26:20] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:26:20] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:26:20] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:26:20] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:26:20] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:26:20] [Server thread/INFO]: Загружено (1.064 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:26:23] [Server thread/INFO]: Steve[/192.168.213.1:61024] вошел с id сущности 8491373099505087518 на (1, world, 128, 70)
+2020-08-24 [01:26:25] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:26:25] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:27:50] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [01:27:50] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [01:27:50] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [01:27:50] [Server thread/INFO]: Loading recipes...
+2020-08-24 [01:27:50] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [01:27:50] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [01:27:50] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [01:27:50] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [01:27:50] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [01:27:50] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [01:27:50] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [01:27:50] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [01:27:50] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [01:27:50] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [01:27:50] [Server thread/INFO]: Загружено (0.974 секунд)! Для справки введите "help" или "?"
+2020-08-24 [01:27:56] [Server thread/INFO]: Steve[/192.168.213.1:61024] вошел с id сущности 8491373099505087518 на (1, world, 128, 70)
+2020-08-24 [01:27:58] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [01:27:58] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [01:28:09] [Server thread/INFO]: Steve вышел из игры
+2020-08-24 [01:28:09] [Server thread/INFO]: Steve[/192.168.213.1:61024] отключился: client disconnect

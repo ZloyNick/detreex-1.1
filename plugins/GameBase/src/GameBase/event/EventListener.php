@@ -9,6 +9,7 @@ use GameBase\player\Player;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerPreLoginEvent;
 use GameBase\Server;
+use pocketmine\event\player\PlayerQuitEvent;
 
 class EventListener implements Listener
 {
@@ -23,8 +24,17 @@ class EventListener implements Listener
         {
             //TODO: kick message
         }else{
-            $list->{$player->getName()} = new (Loader::getPlayerClass())($player);
+            $class = Loader::getPlayerClass();
+            $list->{$player->getName()} = new $class($player);
         }
+    }
+
+    /**
+     * @param PlayerQuitEvent $event
+     */
+    public function callPlayerQuitEvent(PlayerQuitEvent $event) : void
+    {
+        unset(Server::getPlayerList()->{$event->getPlayer()->getName()});
     }
 
 }

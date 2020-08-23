@@ -15,6 +15,8 @@ use Exception;
 class SetPlayerClassEvent extends Event
 {
 
+    public static $handlerList = null;
+
     /**
      * @var string $class
      * @var string $lastClass

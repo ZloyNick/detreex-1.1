@@ -3,9 +3,12 @@
 
 namespace GameBase\holders\dynamic;
 
+use function strtolower;
+use function str_replace;
+
 function replace(&$offset) : void
 {
-    $offset = str_replace(' ', '_', $offset);
+    $offset = str_replace(' ', '_', strtolower($offset));
 }
 
 use ArrayAccess;
@@ -43,7 +46,9 @@ class PlayerList implements ArrayAccess
     {
         replace($offset);
         if($value instanceof Player)
+        {
             static::$players[$offset] = $value;
+        }
 
         throw new Exception('Value must be instance of '.Player::class);
     }
