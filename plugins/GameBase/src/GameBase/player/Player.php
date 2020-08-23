@@ -25,6 +25,11 @@ class Player
 
     }
 
+    public function save() : void
+    {
+
+    }
+
     /**
      * @var _Player
      */

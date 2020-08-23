@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace GameBase;
 
+use GameBase\event\EventListener;
 use GameBase\event\player\SetPlayerClassEvent;
 use GameBase\player\Player;
 use pocketmine\plugin\PluginBase;
@@ -20,14 +21,18 @@ class Loader extends PluginBase
      * Static variables
      *
      * @var Player $playerClass
+     * @var Server $_server
      */
+    private static
+        $_server,
+        $playerClass;
 
     /**
      * Enables plugin
      */
     public function onEnable() : void
     {
-        //TODO: Server
+        $this->getServer()->getPluginManager()->registerEvents(new EventListener, $this);
     }
 
     /**
@@ -38,6 +43,11 @@ class Loader extends PluginBase
     public static function getInstance() : Loader
     {
         return new static;
+    }
+
+    public function _getServer() : Server
+    {
+        return static::$_server;
     }
 
     /**
@@ -69,8 +79,5 @@ class Loader extends PluginBase
     {
         return static::$playerClass;
     }
-
-    private static
-        $playerClass;
 
 }
