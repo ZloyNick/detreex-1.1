@@ -25,3 +25,173 @@
 2020-08-23 [22:59:20] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
 2020-08-23 [22:59:20] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
 2020-08-23 [22:59:20] [Server thread/INFO]: Загружено (0.888 секунд)! Для справки введите "help" или "?"
+2020-08-23 [23:54:37] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-23 [23:54:37] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-23 [23:54:38] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-23 [23:54:44] [Server thread/INFO]: Loading recipes...
+2020-08-23 [23:54:44] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-23 [23:54:44] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-23 [23:54:45] [Server thread/INFO]: Подготовка мира "world"
+2020-08-23 [23:54:45] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-23 [23:54:45] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-23 [23:54:45] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-23 [23:54:45] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-23 [23:54:45] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-23 [23:54:45] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-23 [23:54:45] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-23 [23:54:45] [Server thread/INFO]: Загружено (9.059 секунд)! Для справки введите "help" или "?"
+2020-08-23 [23:55:04] [Server thread/INFO]: ---- Статус сервера ----
+2020-08-23 [23:55:04] [Server thread/INFO]: Число игроков: 0/20
+2020-08-23 [23:55:05] [Server thread/INFO]: Аптайм: 28 сек
+2020-08-23 [23:55:05] [Server thread/INFO]: Средний TPS: 20 (1.99%)
+2020-08-23 [23:55:05] [Server thread/INFO]: Текущий TPS: 20 (1.73%)
+2020-08-23 [23:55:05] [Server thread/INFO]: Данных отправлено: 2.3 kB/s
+2020-08-23 [23:55:05] [Server thread/INFO]: Данных получено: 1.35 kB/s
+2020-08-23 [23:55:05] [Server thread/INFO]: Количество потоков: 16
+2020-08-23 [23:55:05] [Server thread/INFO]: Основная память потока: 24 MB.
+2020-08-23 [23:55:05] [Server thread/INFO]: Общая память: 24 MB.
+2020-08-23 [23:55:05] [Server thread/INFO]: Общая виртуальная память: 28 MB.
+2020-08-23 [23:55:05] [Server thread/INFO]: Heap memory: 0 MB.
+2020-08-23 [23:55:05] [Server thread/INFO]: Максимальная память (системы): 28 MB.
+2020-08-23 [23:55:05] [Server thread/INFO]: Максимальная память (менеджер): 8,192 MB.
+2020-08-23 [23:55:05] [Server thread/INFO]: Мир "world": 0 чанков, 0 сущностей, 0 тайлов. Время 0.18мс
+2020-08-23 [23:55:05] [Server thread/INFO]: Мир "nether": 0 чанков, 0 сущностей, 0 тайлов. Время 0.44мс
+2020-08-23 [23:55:05] [Server thread/INFO]: Мир "ender": 0 чанков, 0 сущностей, 0 тайлов. Время 0.2мс
+2020-08-23 [23:55:59] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-23 [23:55:59] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-23 [23:56:00] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-23 [23:56:00] [Server thread/INFO]: Loading recipes...
+2020-08-23 [23:56:00] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-23 [23:56:00] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-23 [23:56:00] [Server thread/NOTICE]: Мир "world" не найден
+2020-08-23 [23:56:00] [Server thread/INFO]: Подготовка мира "world"
+2020-08-23 [23:56:00] [Server thread/NOTICE]: Генерируется территория спауна для мира "world"
+2020-08-23 [23:56:00] [Server thread/NOTICE]: Мир "nether" не найден
+2020-08-23 [23:56:00] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-23 [23:56:00] [Server thread/NOTICE]: Генерируется территория спауна для мира "nether"
+2020-08-23 [23:56:00] [Server thread/NOTICE]: Мир "ender" не найден
+2020-08-23 [23:56:00] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-23 [23:56:00] [Server thread/NOTICE]: Генерируется территория спауна для мира "ender"
+2020-08-23 [23:56:00] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-23 [23:56:00] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-23 [23:56:00] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-23 [23:56:00] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-23 [23:56:00] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-23 [23:56:00] [Server thread/INFO]: Загружено (1.312 секунд)! Для справки введите "help" или "?"
+2020-08-23 [23:56:13] [Server thread/NOTICE]: Информация об игроке "steve" не найдена, создаётся новый профиль
+2020-08-23 [23:56:13] [Server thread/EMERGENCY]: Произошла фатальная ошибка и сервер вышел из строя. Создание аварийного дампа
+2020-08-23 [23:56:13] [Server thread/EMERGENCY]: Пожалуйста, загрузите файл"C:\Users\ravil\PhpstormProjects\detreex-1.1\detreex-1.1\crashdumps/CrashDump_Sun_Aug_23-23.56.13-PKT_2020.log" в краш-архив и отправьте ссылку на страницу исправления ошибок. Дайте как можно больше информации.
+2020-08-23 [23:56:13] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-23 [23:56:13] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-23 [23:56:13] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-23 [23:56:13] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-23 [23:57:23] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-23 [23:57:23] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-23 [23:57:23] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-23 [23:57:23] [Server thread/INFO]: Loading recipes...
+2020-08-23 [23:57:24] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-23 [23:57:24] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-23 [23:57:24] [Server thread/INFO]: Подготовка мира "world"
+2020-08-23 [23:57:24] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-23 [23:57:24] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-23 [23:57:24] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-23 [23:57:24] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-23 [23:57:24] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-23 [23:57:24] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-23 [23:57:24] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-23 [23:57:24] [Server thread/INFO]: Загружено (0.929 секунд)! Для справки введите "help" или "?"
+2020-08-23 [23:57:30] [Server thread/INFO]: Steve[/192.168.213.1:63030] вошел с id сущности 8491373099505087518 на (1, world, 128, 65)
+2020-08-23 [23:57:33] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-23 [23:57:33] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [00:00:59] [Server thread/INFO]: ---- Статус сервера ----
+2020-08-24 [00:00:59] [Server thread/INFO]: Число игроков: 1/20
+2020-08-24 [00:00:59] [Server thread/INFO]: Аптайм: 3 мин 36 сек
+2020-08-24 [00:00:59] [Server thread/INFO]: Средний TPS: 20 (1.62%)
+2020-08-24 [00:00:59] [Server thread/INFO]: Текущий TPS: 20 (2.26%)
+2020-08-24 [00:00:59] [Server thread/INFO]: Данных отправлено: 2646.19 kB/s
+2020-08-24 [00:00:59] [Server thread/INFO]: Данных получено: 215.77 kB/s
+2020-08-24 [00:00:59] [Server thread/INFO]: Количество потоков: 16
+2020-08-24 [00:00:59] [Server thread/INFO]: Основная память потока: 53 MB.
+2020-08-24 [00:00:59] [Server thread/INFO]: Общая память: 53 MB.
+2020-08-24 [00:00:59] [Server thread/INFO]: Общая виртуальная память: 76 MB.
+2020-08-24 [00:00:59] [Server thread/INFO]: Heap memory: 0 MB.
+2020-08-24 [00:00:59] [Server thread/INFO]: Максимальная память (системы): 76 MB.
+2020-08-24 [00:00:59] [Server thread/INFO]: Максимальная память (менеджер): 8,192 MB.
+2020-08-24 [00:00:59] [Server thread/INFO]: Мир "world": 278 чанков, 2 сущностей, 0 тайлов. Время 0.07мс
+2020-08-24 [00:00:59] [Server thread/INFO]: Мир "nether": 0 чанков, 0 сущностей, 0 тайлов. Время 0.36мс
+2020-08-24 [00:00:59] [Server thread/INFO]: Мир "ender": 0 чанков, 0 сущностей, 0 тайлов. Время 0.29мс
+2020-08-24 [00:01:11] [Server thread/INFO]: [CONSOLE: Остановка сервера]
+2020-08-24 [00:01:11] [Server thread/INFO]: Disabling GameBase v1.0.0
+2020-08-24 [00:01:11] [Server thread/INFO]: Выгрузка мира "world"
+2020-08-24 [00:01:11] [Server thread/INFO]: Выгрузка мира "nether"
+2020-08-24 [00:01:11] [Server thread/INFO]: Выгрузка мира "ender"
+2020-08-24 [00:01:16] [Server thread/INFO]: Остановка других потоков
+2020-08-24 [00:01:21] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-24 [00:01:21] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-24 [00:01:22] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-24 [00:01:22] [Server thread/INFO]: Loading recipes...
+2020-08-24 [00:01:22] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-24 [00:01:22] [Server thread/INFO]: Loading (Source) GameBase v1.0.0
+2020-08-24 [00:01:22] [Server thread/INFO]: Подготовка мира "world"
+2020-08-24 [00:01:22] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-24 [00:01:22] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-24 [00:01:22] [Server thread/INFO]: Enabling GameBase v1.0.0
+2020-08-24 [00:01:22] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-24 [00:01:22] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-24 [00:01:22] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-24 [00:01:22] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-24 [00:01:22] [Server thread/INFO]: Загружено (0.906 секунд)! Для справки введите "help" или "?"
+2020-08-24 [00:01:33] [Server thread/INFO]: Steve[/192.168.213.1:63030] вошел с id сущности 8491373099505087518 на (1, world, 128, 65)
+2020-08-24 [00:01:35] [Server thread/INFO]: Nick: Steve | Device: ONEPLUS ONEPLUS A3010 | Protocol: 113 | CID: 8491373099505087518
+2020-08-24 [00:01:35] [Server thread/INFO]: Steve присоединился к игре
+2020-08-24 [00:02:00] [Server thread/INFO]: ---- Статус сервера ----
+2020-08-24 [00:02:00] [Server thread/INFO]: Число игроков: 1/20
+2020-08-24 [00:02:00] [Server thread/INFO]: Аптайм: 39 сек
+2020-08-24 [00:02:00] [Server thread/INFO]: Средний TPS: 20 (0.87%)
+2020-08-24 [00:02:00] [Server thread/INFO]: Текущий TPS: 20 (1.4%)
+2020-08-24 [00:02:00] [Server thread/INFO]: Данных отправлено: 1511.58 kB/s
+2020-08-24 [00:02:00] [Server thread/INFO]: Данных получено: 124.18 kB/s
+2020-08-24 [00:02:00] [Server thread/INFO]: Количество потоков: 16
+2020-08-24 [00:02:00] [Server thread/INFO]: Основная память потока: 62 MB.
+2020-08-24 [00:02:00] [Server thread/INFO]: Общая память: 62 MB.
+2020-08-24 [00:02:00] [Server thread/INFO]: Общая виртуальная память: 66 MB.
+2020-08-24 [00:02:00] [Server thread/INFO]: Heap memory: 0 MB.
+2020-08-24 [00:02:00] [Server thread/INFO]: Максимальная память (системы): 66 MB.
+2020-08-24 [00:02:00] [Server thread/INFO]: Максимальная память (менеджер): 8,192 MB.
+2020-08-24 [00:02:00] [Server thread/INFO]: Мир "world": 362 чанков, 1 сущностей, 0 тайлов. Время 0.07мс
+2020-08-24 [00:02:00] [Server thread/INFO]: Мир "nether": 0 чанков, 0 сущностей, 0 тайлов. Время 0мс
+2020-08-24 [00:02:00] [Server thread/INFO]: Мир "ender": 0 чанков, 0 сущностей, 0 тайлов. Время 0мс
+2020-08-24 [00:02:05] [Server thread/INFO]: ---- Статус сервера ----
+2020-08-24 [00:02:05] [Server thread/INFO]: Число игроков: 1/20
+2020-08-24 [00:02:05] [Server thread/INFO]: Аптайм: 44 сек
+2020-08-24 [00:02:05] [Server thread/INFO]: Средний TPS: 20 (0.98%)
+2020-08-24 [00:02:05] [Server thread/INFO]: Текущий TPS: 20 (2.27%)
+2020-08-24 [00:02:05] [Server thread/INFO]: Данных отправлено: 1512.43 kB/s
+2020-08-24 [00:02:05] [Server thread/INFO]: Данных получено: 127.39 kB/s
+2020-08-24 [00:02:05] [Server thread/INFO]: Количество потоков: 16
+2020-08-24 [00:02:05] [Server thread/INFO]: Основная память потока: 62 MB.
+2020-08-24 [00:02:05] [Server thread/INFO]: Общая память: 62 MB.
+2020-08-24 [00:02:05] [Server thread/INFO]: Общая виртуальная память: 66 MB.
+2020-08-24 [00:02:05] [Server thread/INFO]: Heap memory: 0 MB.
+2020-08-24 [00:02:05] [Server thread/INFO]: Максимальная память (системы): 66 MB.
+2020-08-24 [00:02:05] [Server thread/INFO]: Максимальная память (менеджер): 8,192 MB.
+2020-08-24 [00:02:05] [Server thread/INFO]: Мир "world": 362 чанков, 1 сущностей, 0 тайлов. Время 0.52мс
+2020-08-24 [00:02:05] [Server thread/INFO]: Мир "nether": 0 чанков, 0 сущностей, 0 тайлов. Время 0.01мс
+2020-08-24 [00:02:05] [Server thread/INFO]: Мир "ender": 0 чанков, 0 сущностей, 0 тайлов. Время 0мс
+2020-08-24 [00:02:07] [Server thread/INFO]: ---- Статус сервера ----
+2020-08-24 [00:02:07] [Server thread/INFO]: Число игроков: 1/20
+2020-08-24 [00:02:07] [Server thread/INFO]: Аптайм: 46 сек
+2020-08-24 [00:02:07] [Server thread/INFO]: Средний TPS: 20 (0.91%)
+2020-08-24 [00:02:07] [Server thread/INFO]: Текущий TPS: 20 (2.02%)
+2020-08-24 [00:02:07] [Server thread/INFO]: Данных отправлено: 1512.86 kB/s
+2020-08-24 [00:02:07] [Server thread/INFO]: Данных получено: 128.98 kB/s
+2020-08-24 [00:02:07] [Server thread/INFO]: Количество потоков: 16
+2020-08-24 [00:02:07] [Server thread/INFO]: Основная память потока: 61 MB.
+2020-08-24 [00:02:07] [Server thread/INFO]: Общая память: 61 MB.
+2020-08-24 [00:02:07] [Server thread/INFO]: Общая виртуальная память: 66 MB.
+2020-08-24 [00:02:07] [Server thread/INFO]: Heap memory: 0 MB.
+2020-08-24 [00:02:07] [Server thread/INFO]: Максимальная память (системы): 66 MB.
+2020-08-24 [00:02:07] [Server thread/INFO]: Максимальная память (менеджер): 8,192 MB.
+2020-08-24 [00:02:07] [Server thread/INFO]: Мир "world": 362 чанков, 1 сущностей, 0 тайлов. Время 0.56мс
+2020-08-24 [00:02:07] [Server thread/INFO]: Мир "nether": 0 чанков, 0 сущностей, 0 тайлов. Время 0мс
+2020-08-24 [00:02:07] [Server thread/INFO]: Мир "ender": 0 чанков, 0 сущностей, 0 тайлов. Время 0мс

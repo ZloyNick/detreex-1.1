@@ -1,0 +1,21 @@
+name: GameBase
+
+description:
+  "
+  A game base library for detreex server
+  Makes Developing easy.
+
+  Many features in API of this plugin.
+  "
+
+#general
+api: 1.12.0
+version: 1.0.0
+
+main: GameBase\Loader
+
+build: 1
+pre-build: 1
+
+changes:
+  - "Init"

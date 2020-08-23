@@ -1,0 +1,44 @@
+GenisysPro Crash Dump Sun Aug 23 23:56:13 PKT 2020
+
+Error: Declaration of pocketmine\inventory\PlayerInventory::clearAll() must be compatible with pocketmine\inventory\BaseInventory::clearAll($send = true)
+File: /src/pocketmine/inventory/PlayerInventory
+Line: 37
+Type: E_COMPILE_ERROR
+
+Code:
+[28] use pocketmine\item\Item;
+[29] use pocketmine\nbt\tag\ListTag;
+[30] use pocketmine\network\protocol\ContainerSetContentPacket;
+[31] use pocketmine\network\protocol\ContainerSetSlotPacket;
+[32] use pocketmine\network\protocol\MobArmorEquipmentPacket;
+[33] use pocketmine\network\protocol\MobEquipmentPacket;
+[34] use pocketmine\Player;
+[35] use pocketmine\Server;
+[36] 
+[37] class PlayerInventory extends BaseInventory {
+[38] 
+[39] 	protected $itemInHandIndex = 0;
+[40] 	/** @var int[] */
+[41] 	protected $hotbar;
+[42] 
+[43] 	/**
+[44] 	 * PlayerInventory constructor.
+[45] 	 *
+[46] 	 * @param Human $player
+[47] 	 * @param null  $contents
+
+Backtrace:
+#0 (): pocketmine\Server->crashDump(boolean)
+
+GenisysPro version: 2164fd927a9d58cb71d85fe55a50e1327a5bbe12 [Protocol 113; API 3.0.1]
+uname -a: Windows NT DESKTOP-UA3DBH2 10.0 build 18363 (Windows 10) AMD64
+PHP version: 7.3.21
+Zend version: 3.3.21
+OS : WINNT, win
+
+Server uptime: 13 сек
+Number of loaded worlds: 3
+Players online: 0/20
+
+Loaded plugins:
+GameBase 1.0.0 by  for API(s) 1.12.0
