@@ -1,0 +1,48 @@
+GenisysPro Crash Dump Sun Aug 23 22:58:43 PKT 2020
+
+Error: Class pocketmine\Void not found
+File: /src/spl/BaseClassLoader
+Line: 144
+Type: notice
+
+THIS CRASH WAS CAUSED BY A PLUGIN
+
+Code:
+[135] 
+[136] 			if(method_exists($name, "onClassLoaded") and (new ReflectionClass($name))->getMethod("onClassLoaded")->isStatic()){
+[137] 				$name::onClassLoaded();
+[138] 			}
+[139] 			
+[140] 			$this->classes[] = $name;
+[141] 
+[142] 			return true;
+[143] 		}elseif($this->getParent() === null){
+[144] 			throw new ClassNotFoundException("Class $name not found");
+[145] 		}
+[146] 
+[147] 		return false;
+[148] 	}
+[149] 
+[150] 	/**
+[151] 	 * Returns the path for the class, if any
+[152] 	 *
+[153] 	 * @param string $name
+[154] 	 *
+
+Backtrace:
+#0 (): spl_autoload_call(string pocketmine\Void)
+#1 /src/pocketmine/level/generator/Generator(43): is_subclass_of(string pocketmine\Void, string pocketmine\level\generator\Generator)
+#2 /src/pocketmine/Server(1858): pocketmine\level\generator\Generator::addGenerator(string pocketmine\Void, string void)
+#3 /src/pocketmine/PocketMine(1): pocketmine\Server->__construct(BaseClassLoader object, pocketmine\utils\MainLogger object, string C:\Users\ravil\PhpstormProjects\detreex-1.1\detreex-1.1\, string C:\Users\ravil\PhpstormProjects\detreex-1.1\detreex-1.1\, string C:\Users\ravil\PhpstormProjects\detreex-1.1\detreex-1.1\plugins\)
+
+GenisysPro version: 2164fd927a9d58cb71d85fe55a50e1327a5bbe12 [Protocol 113; API 3.0.1]
+uname -a: Windows NT DESKTOP-UA3DBH2 10.0 build 18363 (Windows 10) AMD64
+PHP version: 7.3.21
+Zend version: 3.3.21
+OS : WINNT, win
+
+Server uptime: 10 сек
+Number of loaded worlds: 0
+Players online: 0/20
+
+Loaded plugins:

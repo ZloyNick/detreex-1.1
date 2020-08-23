@@ -1,0 +1,27 @@
+2020-08-23 [22:58:42] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-23 [22:58:43] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-23 [22:58:43] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-23 [22:58:43] [Server thread/INFO]: Loading recipes...
+2020-08-23 [22:58:43] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-23 [22:58:43] [Server thread/CRITICAL]: ClassNotFoundException: "Class pocketmine\Void not found" (EXCEPTION) in "/src/spl/BaseClassLoader" at line 144
+2020-08-23 [22:58:43] [Server thread/EMERGENCY]: Произошла фатальная ошибка и сервер вышел из строя. Создание аварийного дампа
+2020-08-23 [22:58:43] [Server thread/EMERGENCY]: Пожалуйста, загрузите файл"C:\Users\ravil\PhpstormProjects\detreex-1.1\detreex-1.1\crashdumps/CrashDump_Sun_Aug_23-22.58.43-PKT_2020.log" в краш-архив и отправьте ссылку на страницу исправления ошибок. Дайте как можно больше информации.
+2020-08-23 [22:59:19] [Server thread/INFO]: Выбран Russian (rus) в качестве главного языка
+2020-08-23 [22:59:19] [Server thread/INFO]: Открытие сервера на 0.0.0.0:19132
+2020-08-23 [22:59:19] [Server thread/INFO]: GenisysPro распространяется под лицензией LGPL
+2020-08-23 [22:59:20] [Server thread/INFO]: Loading recipes...
+2020-08-23 [22:59:20] [Server thread/INFO]: pocketmine.resourcepacks.load
+2020-08-23 [22:59:20] [Server thread/NOTICE]: Мир "world" не найден
+2020-08-23 [22:59:20] [Server thread/INFO]: Подготовка мира "world"
+2020-08-23 [22:59:20] [Server thread/NOTICE]: Генерируется территория спауна для мира "world"
+2020-08-23 [22:59:20] [Server thread/NOTICE]: Мир "nether" не найден
+2020-08-23 [22:59:20] [Server thread/INFO]: Подготовка мира "nether"
+2020-08-23 [22:59:20] [Server thread/NOTICE]: Генерируется территория спауна для мира "nether"
+2020-08-23 [22:59:20] [Server thread/NOTICE]: Мир "ender" не найден
+2020-08-23 [22:59:20] [Server thread/INFO]: Подготовка мира "ender"
+2020-08-23 [22:59:20] [Server thread/NOTICE]: Генерируется территория спауна для мира "ender"
+2020-08-23 [22:59:20] [Server thread/INFO]: Запуск прослушивателя статуса GS4
+2020-08-23 [22:59:20] [Server thread/INFO]: Установлен порт query на 19132
+2020-08-23 [22:59:20] [Server thread/INFO]: Query запущен на 0.0.0.0:19132
+2020-08-23 [22:59:20] [Server thread/INFO]: Игровой режим по умолчанию: Режим выживания
+2020-08-23 [22:59:20] [Server thread/INFO]: Загружено (0.888 секунд)! Для справки введите "help" или "?"
