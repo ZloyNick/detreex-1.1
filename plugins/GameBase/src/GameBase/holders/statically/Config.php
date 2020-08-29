@@ -52,7 +52,7 @@ class Config implements ArrayAccess, Countable
                 }
             }
         }
-        return $this;
+        return new static;
     }
 
     public function offsetExists($offset)
