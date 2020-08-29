@@ -5,7 +5,6 @@ declare(strict_types=1);
 namespace GameBase\event;
 
 use GameBase\Loader;
-use GameBase\player\Player;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerPreLoginEvent;
 use GameBase\Server;
@@ -30,6 +29,7 @@ class EventListener implements Listener
     }
 
     /**
+     * @priority 0
      * @param PlayerQuitEvent $event
      */
     public function callPlayerQuitEvent(PlayerQuitEvent $event) : void

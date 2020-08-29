@@ -13,10 +13,12 @@ function replace(&$offset) : void
 
 use ArrayAccess;
 use Exception;
+use Countable;
+use function count;
 
 use GameBase\player\Player;
 
-class PlayerList implements ArrayAccess
+class PlayerList implements ArrayAccess, Countable
 {
 
     /**
@@ -60,5 +62,13 @@ class PlayerList implements ArrayAccess
         {
             static::$players[$offset]->save();
         }
+    }
+
+    /**
+     * @return int
+     */
+    public function count() : int
+    {
+        return count(static::$players);
     }
 }
