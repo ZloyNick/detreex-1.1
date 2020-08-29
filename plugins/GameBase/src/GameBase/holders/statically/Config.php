@@ -40,7 +40,7 @@ class Config implements ArrayAccess, Countable
      * @param array $data
      * @return Config
      */
-    public function init(array $data): Config
+    public static function init(array $data): Config
     {
         $originalData = &static::$data;
         foreach ($data as $lang => $dat) {
@@ -125,9 +125,10 @@ class Config implements ArrayAccess, Countable
 
     /**
      * @param string $file
+     * @return Config
      * @throws Exception
      */
-    public static function up(string $file)
+    public static function up(string $file) : Config
     {
         //TODO: Other providers?
         $parts = explode('.', $file);
@@ -177,6 +178,7 @@ class Config implements ArrayAccess, Countable
                 throw new Exception();
                 break;
         }
+        return static::init($data);
     }
 
     public function __destruct()
